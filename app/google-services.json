@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "79005615178",
+    "project_id": "locker-d109f",
+    "storage_bucket": "locker-d109f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:79005615178:android:3e64e0ff321cbe6fc612b3",
+        "android_client_info": {
+          "package_name": "com.example.lock_notifier"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "79005615178-bah8hf9soq7sktud61kh181pi14ij7m9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAAMAFY662vCwlH2N-69edtHWPv_ZLPrKA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "79005615178-bah8hf9soq7sktud61kh181pi14ij7m9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

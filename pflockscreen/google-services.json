@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "885547746442",
+    "firebase_url": "https://locker2-c4c6a-default-rtdb.firebaseio.com",
+    "project_id": "locker2-c4c6a",
+    "storage_bucket": "locker2-c4c6a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:885547746442:android:62958479ba4d3b42ee9973",
+        "android_client_info": {
+          "package_name": "com.beautycoder.pflockscreen"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "885547746442-isiktd8pbli2l1gshgoav6kg00ejcbfa.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.beautycoder.pflockscreen",
+            "certificate_hash": "ee09fe8460c92cf03df545c95c225307097e81c8"
+          }
+        },
+        {
+          "client_id": "885547746442-r1pqffv76n1fi7l57pbgq489b2lrba45.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDkKvUAE8UyHBjoFjwU8pC-VWL8D5N-BGk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "885547746442-r1pqffv76n1fi7l57pbgq489b2lrba45.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
